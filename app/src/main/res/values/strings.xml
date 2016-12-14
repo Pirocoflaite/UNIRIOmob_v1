@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">UNIRIOmob</string>
+
+    <string name="navigation_drawer_open">Abrir gaveta de navegação</string>
+    <string name="navigation_drawer_close">Fechar gaveta de navegação</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_title_for_students">Para Alunos</string>
+    <string name="nav_title_for_all">Para a Comunidade</string>
+
+    <string name="ic_document_code">&#xf029;</string>
+    <string name="ic_syllabus_code">&#xf0ce;</string>
+    <string name="ic_secretariat_code">&#xf19c;</string>
+    <string name="ic_restaurant_code">&#xf0f5;</string>
+    <string name="ic_bus_code">&#xf207;</string>
+    <string name="ic_news_code">&#xf1ea;</string>
+
+    <string name="nav_home">Início</string>
+    <string name="nav_document">Carteirinha Virtual</string>
+    <string name="nav_syllabus">Plano de Estudos</string>
+    <string name="nav_secretariat">Secretarias de Cursos</string>
+    <string name="nav_restaurant">Restaurante Universitário</string>
+    <string name="nav_restaurant_menu_at">Cardápio do dia</string>
+    <string name="nav_bus">Transporte Intercampi</string>
+    <string name="nav_bus_txt_status">Status de Funcionamento</string>
+    <string name="nav_bus_txt_passengers">Passageiros confirmados</string>
+    <string name="nav_bus_btn_confirm">Confirmar minha presença!</string>
+    <string name="nav_bus_txt_time">Embarque às</string>
+    <string name="nav_bus_txt_place">Local de embarque</string>
+    <string name="nav_bus_txt_itinerary">Itinerário da linha</string>
+    <string name="nav_bus_txt_info">Informações da linha</string>
+    <string name="nav_news">Notícias e Novidades</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>UNIRIOmob</item>
+        <item>Carteirinha Virtual</item>
+        <item>Plano de Estudos</item>
+        <item>Secretarias de Cursos</item>
+        <item>Restaurante Universitário</item>
+        <item>Transporte Intercampi</item>
+        <item>Notícias e Novidades</item>
+    </string-array>
+
+    <string name="activity_title_login">Entrar</string>
+
+    <string name="action_clear_all">Limpar Tudo</string>
+    <string name="action_logout">Sair</string>
+    <string name="action_mark_all_read">Marcar todas como lidas</string>
+
+    <string name="privacy_policy">Política de privacidade</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

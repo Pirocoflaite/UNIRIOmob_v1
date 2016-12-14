@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/nav_menu_top"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home" />
+
+    </group>
+
+    <group
+        android:id="@+id/nav_menu_bottom"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_document"
+            android:icon="@drawable/ic_qrcode"
+            android:title="@string/nav_document" />
+
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/ic_syllabus"
+            android:title="@string/nav_syllabus" />
+
+        <item
+            android:id="@+id/nav_secretariat"
+            android:icon="@drawable/ic_secretariat"
+            android:title="@string/nav_secretariat" />
+
+        <item
+            android:id="@+id/nav_restaurant"
+            android:icon="@drawable/ic_restaurant"
+            android:title="@string/nav_restaurant" />
+
+        <item
+            android:id="@+id/nav_bus"
+            android:icon="@drawable/ic_bus"
+            android:title="@string/nav_bus" />
+
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_news"
+            android:title="@string/nav_news" />
+
+    </group>
+
+</menu>
